@@ -1,0 +1,2 @@
+﻿n_chamados_elegiveis,n_violacoes,taxa_violacao_pct,roc_auc_cv,n_splits_cv,modelo
+25600,248,0.969,0.8059,5,RandomForestClassifier (class_weight=balanced)

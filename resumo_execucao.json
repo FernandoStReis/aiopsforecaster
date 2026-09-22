@@ -1,0 +1,62 @@
+{
+  "chamados_processados": 122543,
+  "periodo": [
+    "2023-01-02",
+    "2025-12-31"
+  ],
+  "regime_atual_desde": "2025-09-01",
+  "modelos_volume": [
+    {
+      "target": "volume_total",
+      "horizon": "D+1",
+      "modelo": "XGBoost",
+      "wape_treino_pct": 0.83,
+      "wape_teste_pct": 18.06,
+      "mae_treino": 5.6,
+      "mae_teste": 172.4,
+      "n_dias_treino": 122,
+      "n_dias_teste": 14
+    },
+    {
+      "target": "volume_total",
+      "horizon": "D+7",
+      "modelo": "XGBoost",
+      "wape_treino_pct": 0.34,
+      "wape_teste_pct": 19.64,
+      "mae_treino": 16.2,
+      "mae_teste": 1331.2,
+      "n_dias_treino": 115,
+      "n_dias_teste": 14
+    },
+    {
+      "target": "volume_p2p3",
+      "horizon": "D+1",
+      "modelo": "XGBoost",
+      "wape_treino_pct": 1.45,
+      "wape_teste_pct": 45.9,
+      "mae_treino": 3.5,
+      "mae_teste": 228.4,
+      "n_dias_treino": 122,
+      "n_dias_teste": 14
+    },
+    {
+      "target": "volume_p2p3",
+      "horizon": "D+7",
+      "modelo": "XGBoost",
+      "wape_treino_pct": 0.52,
+      "wape_teste_pct": 44.32,
+      "mae_treino": 8.8,
+      "mae_teste": 1449.7,
+      "n_dias_treino": 115,
+      "n_dias_teste": 14
+    }
+  ],
+  "classificador_risco_ola": {
+    "n_chamados_elegiveis": 25600,
+    "n_violacoes": 248,
+    "taxa_violacao_pct": 0.969,
+    "roc_auc_cv": 0.8059,
+    "n_splits_cv": 5,
+    "modelo": "RandomForestClassifier (class_weight=balanced)"
+  }
+}

@@ -1,0 +1,11 @@
+﻿feature,fator,importancia_pct
+grupo_designado_freq,Grupo designado,32.57
+item_configuracao_freq,Item de configuração (frequência),16.62
+categoria_freq,Categoria (frequência),12.57
+produto_freq,Produto (frequência),12.03
+hora_abertura,Hora de abertura,11.21
+dia_semana,Dia da semana,7.72
+prioridade_ordinal,Prioridade do chamado,2.32
+is_weekend,Aberto em fim de semana,2.2
+is_noturno,Janela de abertura (noturno),1.65
+is_troca_turno,Janela de abertura (troca de turno),1.12

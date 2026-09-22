@@ -1,0 +1,8 @@
+﻿categoria,alvo,indicador,acao_recomendada
+Equipe,Team11,114 violações de OLA (46.0% do total),Revisar dimensionamento da equipe e abrir Problem Records para as causas recorrentes.
+Equipe,Team09,56 violações de OLA (22.6% do total),Revisar dimensionamento da equipe e abrir Problem Records para as causas recorrentes.
+Equipe,Team07,16 violações de OLA (6.5% do total),Revisar dimensionamento da equipe e abrir Problem Records para as causas recorrentes.
+Ativo (Item de Configuração),IC00840,Taxa de violação de 31.37% em 102 chamados,Investigar instabilidade crônica do ativo; priorizar saneamento estrutural.
+Ativo (Item de Configuração),IC00633,Taxa de violação de 12.9% em 31 chamados,Investigar instabilidade crônica do ativo; priorizar saneamento estrutural.
+Ativo (Item de Configuração),IC00928,Taxa de violação de 8.14% em 86 chamados,Investigar instabilidade crônica do ativo; priorizar saneamento estrutural.
+Escala / Janela crítica,Quinta — Manhã (6-11h),18 violações concentradas nesta janela,Redistribuir escalas de plantão para reforçar cobertura nesse período.

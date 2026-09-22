@@ -1,0 +1,11 @@
+Equipe: Grupo 18
+Projeto: AIOps Forecaster
+FIAP - 2TSCOA - Enterprise Challenge Locaweb - Sprint 4
+
+Integrantes (ordem alfabética) e RM:
+- Fernando Santos Reis - RM 562410
+- Leonardo Breyer - RM 563568
+- Leonardo Lourenço - RM 562825
+
+Link publico do video pitch (YouTube):
+[COLAR AQUI O LINK PUBLICO DO YOUTUBE]
