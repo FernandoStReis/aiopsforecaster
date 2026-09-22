@@ -196,3 +196,4 @@ mentorship, and the opportunity to work on a real operational problem.
 This project is licensed under the [MIT License](LICENSE) — see the
 `LICENSE` file for details. The dataset in `data/` is not covered by this
 license; see the confidentiality note above.
+:)
